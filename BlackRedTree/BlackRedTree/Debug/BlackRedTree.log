@@ -1,9 +1,0 @@
-﻿  stdafx.cpp
-  BlackRedTree.cpp
-c:\users\drmurtha\source\repos\blackredtree\blackredtree\blackredtree.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  BRTree.cpp
-  BRNode.cpp
-  BRLeaf.cpp
-  Generating Code...
-  BlackRedTree.vcxproj -> c:\users\drmurtha\Source\Repos\BlackRedTree\Debug\BlackRedTree.exe
-  BlackRedTree.vcxproj -> c:\users\drmurtha\Source\Repos\BlackRedTree\Debug\BlackRedTree.pdb (Partial PDB)
