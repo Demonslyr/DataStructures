@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  BlackAndRedTree.cpp
+c:\users\drmur\source\repos\datastructures\blackandredtree\blackandredtree\blackandredtree.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BRTree.cpp
+  BRNode.cpp
+  BRLeaf.cpp
+  Generating Code...
+  BlackAndRedTree.vcxproj -> C:\Users\DrMur\source\repos\DataStructures\BlackAndRedTree\Debug\BlackAndRedTree.exe
